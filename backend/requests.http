@@ -1,0 +1,56 @@
+post http://localhost:4000/api/jobs/recommend
+
+###
+post http://localhost:4000/job-recommend/registration
+Content-Type: application/json
+
+{
+    "name" : "kiran",
+    "password" : "kiran",
+    "mail" : "kiran@gmail.com"
+}
+
+
+###
+post http://localhost:4000/job-recommend/login
+Content-Type: application/json
+
+{
+    "mail" : "kiran@gmail.com",
+    "password" : "kiran"
+}
+
+
+###
+//reset password
+put http://localhost:4000/job-recommend/reset-password
+Content-Type: application/json
+
+{
+    "mail" : "kiran@gmail.com",
+    "oldPassword" : "kiran",
+    "newPassword" : "1234"
+}
+
+
+###
+//mpc
+get http://localhost:4000/job-recommend/mpc
+ 
+
+###
+//bipc
+get http://localhost:4000/job-recommend/bipc
+
+
+###
+//diploma
+get http://localhost:4000/job-recommend/diploma
+
+###
+//arts
+get http://localhost:4000/job-recommend/arts
+
+###
+//commerce
+get http://localhost:4000/job-recommend/commerce
