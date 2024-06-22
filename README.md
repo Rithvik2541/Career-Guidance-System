@@ -1,4 +1,4 @@
-#Career-Guidance-System 
+<h1>Career Guidance System</h1> 
 
 <h2>Overview</h2>
 <p>The Career Guidance System is a comprehensive platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that provides personalized career advice for students at different stages of their education: primary schooling, secondary schooling, and graduates. By taking into account students' academic performance, interests, and skills, our system suggests suitable career paths and provides detailed information about each option.</p>
@@ -27,4 +27,4 @@
 
 <a href = "http://colab.research.google.com/](https://colab.research.google.com/drive/1Nv-oOKLM74WBnv9c0SrLyE5NYoIP782w?usp=sharing">Click here to access the AI model on Google Colab</a>
 
-<p><b>This is a full stack project with a trained AI model which was built during a 24-hour hackathon. We did not make any changes after the hackathon. This project showcases the extent of our work within that time frame.</b></p>
+<p><b><i>This is a full stack project with a trained AI model which was built during a 24-hour hackathon. We did not make any changes after the hackathon. This project showcases the extent of our work within that time frame.</i></b></p>
