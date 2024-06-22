@@ -25,6 +25,6 @@
 <h2>AI Model</h2> AI/ML Model
 <p>Our AI model enhances the career guidance system by evaluating numerous factors and predicting the best career path based on user inputs. The model takes into account various possibilities and provides insights into the future scope of each career option.</p>
 
-<a href = "http://colab.research.google.com/">Click here to access the AI model on Google Colab</a>
+<a href = "[http://colab.research.google.com/](https://colab.research.google.com/drive/1Nv-oOKLM74WBnv9c0SrLyE5NYoIP782w?usp=sharing)">Click here to access the AI model on Google Colab</a>
 
 <p><b>This is a full stack project with a trained AI model which was built during a 24-hour hackathon. We did not make any changes after the hackathon. This project showcases the extent of our work within that time frame.</b></p>
