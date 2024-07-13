@@ -8,9 +8,10 @@
   <li>User Input Forms: Tailored forms for students to input their academic scores, interests, and skills.</li>
   <li>Career Suggestions: Based on user inputs, the system provides suggestions for various career paths.</li>
   <li>Detailed Information: Each suggested career path includes information about scope, required skills, top colleges, and 
-   resources.</li>
+   resources according to their academic standards.</li>
   <li>Graduate Job Guidance: Detailed job information for graduates, including job scope, salary ranges, demand, and required 
-   skills.</li>
+   skills.</li> 
+  
 </ul>
 
 <h2>Requirements</h2>
